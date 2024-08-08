@@ -1,0 +1,58 @@
+= OurBigBook Admin
+
+Hello! I'm the official https://docs.ourbigbook.com/#ourbigbook-web-admin[admin] account for the https://docs.ourbigbook.com[OurBigBook Project]!
+
+Proof: https://docs.ourbigbook.com/ourbigbook-admin
+
+= Introduction to the OurBigBook Project
+{parent=OurBigBook Admin}
+
+Welcome to the \b[OurBigBook Project]! Our goal is to create the perfect publishing platform for <#STEM> subjects, and get university-level students to write the best free <#STEM> tutorials ever.
+
+\b[Everyone] is welcome to create an account and play with the site: https://ourbigbook.com/go/register[]. We belive that \b[students themselves can write amazing tutorials], but teachers are welcome too. You can write about \b[anything you want], it doesn't have to be <#STEM> or even educational. Silly test content is very welcome and you won't be penalized in any way. https://docs.ourbigbook.com/#ourbigbook-com-policies[Just keep it legal]!
+
+\Video[https://www.youtube.com/watch?v=7JOJYx0mmhg]
+{title=Intro to OurBigBook}
+{height=500}
+
+We have \b[two killer features]:
+\Ol[
+* \b[https://docs.ourbigbook.com/#ourbigbook-web-topics[topics]]: topics group articles by different users with the same title, e.g. here is the topic for the "Fundamental Theorem of Calculus" https://ourbigbook.com/go/topic/fundamental-theorem-of-calculus
+
+  Articles of different users are sorted by upvote within each article page. This feature is a bit like:
+  * a <#Wikipedia> where each user can have their own version of each article
+  * a <#Q&A website> like <#Stack Overflow>, where multiple people can give their views on a given topic, and the best ones are sorted by upvote. Except you don't need to wait for someone to ask first, and any topic goes, no matter how narrow or broad
+
+  This feature makes it possible for readers to find better explanations of any topic created by other writers. And it allows writers to create an explanation in a place that readers might actually find it.
+
+  \Video[https://www.youtube.com/watch?v=54nxjC9BWTg]
+  {title=OurBigBook Web topics demo}
+  {height=700}
+  {width=700}
+* \b[https://docs.ourbigbook.com/#publish-your-content[local editing]]: you can store all your <#personal knowledge base> content locally in a https://docs.ourbigbook.com/#ourbigbook-markup[plaintext markup format] that can be edited locally and published either:
+  * to https://OurBigBook.com to get awesome multi-user features like topics and likes
+  * as HTML files to a <#static website>, which you can host yourself for free on many external providers like GitHub Pages, and remain in full control
+  This way you can be sure that even if http://OurBigBook.com[] were to go down one day (which we have no plans to do as it is quite cheap to host!), your content will still be perfectly readable as a static site.
+
+  \Image[https://raw.githubusercontent.com/ourbigbook/ourbigbook-media/master/feature/local-editing/bigb-publish-to-web-or-static-editor-logos.svg]
+  {title=You can publish local OurBigBook lightweight markup files to either https://OurBigBook.com or as a static website}
+  {height=600}
+
+  \Video[https://www.youtube.com/watch?v=Ghvlztiu6rI]
+  {title=Edit locally and publish demo}
+  {disambiguate=intro}
+  {description=This shows editing OurBigBook Markup and publishing it using the https://docs.ourbigbook.com/#visual-studio-code[VS Code extension].}
+  {height=720}
+  {width=720}
+
+  \Video[https://www.youtube.com/watch?v=0W8U2YtQ8fg]
+  {title=OurBigBook Visual Studio Code extension}
+  {disambiguate=intro}
+  {height=600}
+]
+
+All our software is open source and hosted at: https://github.com/ourbigbook/ourbigbook
+
+Further documentation can be found at: https://docs.ourbigbook.com
+
+Feel free to reach our to us for any help or suggestions: https://docs.ourbigbook.com/#contact
