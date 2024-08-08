@@ -71,6 +71,22 @@ We have \b[two killer features]:
   {title=OurBigBook https://docs.ourbigbook.com/#visual-studio-code[Visual Studio Code extension] editing and navigation demo}
   {disambiguate=intro}
   {height=600}
+* \b[https://docs.ourbigbook.com/#cross-file-reference[Internal cross file references] done right]:
+
+  \Image[https://raw.githubusercontent.com/ourbigbook/ourbigbook-media/master/feature/x/hilbert-space-arrow.png]
+  {height=571}
+  {border}
+* \b[Infinitely deep https://docs.ourbigbook.com/#table-of-contents[tables of contents]]:
+
+  \Image[https://raw.githubusercontent.com/ourbigbook/ourbigbook-media/master/feature/dynamic-article-tree/demo.png]
+  {title=Dynamic article tree with infinitely deep table of contents}
+  {description=
+  Live URL: https://ourbigbook.com/cirosantilli/chordate
+  
+  Descendant pages can also show up as toplevel e.g.: https://ourbigbook.com/cirosantilli/chordate-subclade[]
+  }
+  {height=2700}
+  {border}
 ]
 
 All our software is open source and hosted at: https://github.com/ourbigbook/ourbigbook
