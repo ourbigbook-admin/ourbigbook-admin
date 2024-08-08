@@ -45,6 +45,21 @@ We have \b[two killer features]:
   {height=600}
   {border}
 
+  \Image[https://raw.githubusercontent.com/ourbigbook/ourbigbook-media/master/feature/vscode/install.png]
+  {title=https://docs.ourbigbook.com/#visual-studio-code[Visual Studio Code extension] installation}
+  {height=750}
+  {border}
+
+  \Image[https://raw.githubusercontent.com/ourbigbook/ourbigbook-media/master/feature/vscode/tree.png]
+  {title=https://docs.ourbigbook.com/#visual-studio-code[Visual Studio Code extension] tree navigation}
+  {height=1100}
+
+  \Image[https://raw.githubusercontent.com/ourbigbook/ourbigbook-media/master/feature/web-editor/cirosantilli-derivative.png]
+  {title=https://docs.ourbigbook.com/#web-editor[Web editor]}
+  {description=You can also edit articles on the https://docs.ourbigbook.com/#web-editor[Web editor] without installing anything locally.}
+  {height=800}
+  {border}
+
   \Video[https://www.youtube.com/watch?v=Ghvlztiu6rI]
   {title=Edit locally and publish demo}
   {disambiguate=intro}
