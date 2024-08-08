@@ -25,6 +25,12 @@ We have \b[two killer features]:
 
   This feature makes it possible for readers to find better explanations of any topic created by other writers. And it allows writers to create an explanation in a place that readers might actually find it.
 
+  \Image[https://raw.githubusercontent.com/ourbigbook/ourbigbook-media/master/feature/topics/derivative.png]
+  {title=Screenshot of the "Derivative" https://docs.ourbigbook.com/#ourbigbook-web-topics[topic] page}
+  {description=View it live at: https://ourbigbook.com/go/topic/derivative}
+  {height=1000}
+  {border}
+
   \Video[https://www.youtube.com/watch?v=54nxjC9BWTg]
   {title=OurBigBook Web topics demo}
   {height=700}
@@ -35,18 +41,19 @@ We have \b[two killer features]:
   This way you can be sure that even if http://OurBigBook.com[] were to go down one day (which we have no plans to do as it is quite cheap to host!), your content will still be perfectly readable as a static site.
 
   \Image[https://raw.githubusercontent.com/ourbigbook/ourbigbook-media/master/feature/local-editing/bigb-publish-to-web-or-static-editor-logos.svg]
-  {title=You can publish local OurBigBook lightweight markup files to either https://OurBigBook.com or as a static website}
+  {title=You can publish https://docs.ourbigbook.com/#ourbigbook-markup[local OurBigBook lightweight markup] files to either https://OurBigBook.com or as a https://docs.ourbigbook.com/#p-publish[static website]}
   {height=600}
+  {border}
 
   \Video[https://www.youtube.com/watch?v=Ghvlztiu6rI]
   {title=Edit locally and publish demo}
   {disambiguate=intro}
-  {description=This shows editing OurBigBook Markup and publishing it using the https://docs.ourbigbook.com/#visual-studio-code[VS Code extension].}
+  {description=This shows editing https://docs.ourbigbook.com/#ourbigbook-markup[OurBigBook Markup] and publishing it using the https://docs.ourbigbook.com/#visual-studio-code[Visual Studio Code extension].}
   {height=720}
   {width=720}
 
   \Video[https://www.youtube.com/watch?v=0W8U2YtQ8fg]
-  {title=OurBigBook Visual Studio Code extension}
+  {title=OurBigBook https://docs.ourbigbook.com/#visual-studio-code[Visual Studio Code extension] editing and navigation demo}
   {disambiguate=intro}
   {height=600}
 ]
